@@ -1,0 +1,34 @@
+Hero_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Star
+bounds:586,914,105,101
+Wind
+bounds:693,805,210,322
+rotate:90
+images/Body
+bounds:2,300,548,324
+images/Gypsum
+bounds:2,735,211,251
+rotate:90
+images/Head
+bounds:643,403,371,400
+images/Left eye
+bounds:94,978,37,38
+rotate:90
+images/Left eyebrow
+bounds:2,992,36,23
+images/Left eyelid
+bounds:134,962,55,53
+images/Legs
+bounds:255,626,286,386
+rotate:90
+images/Right eye
+bounds:191,948,69,67
+images/Right eyebrow
+bounds:40,982,52,33
+images/Right eyelid
+bounds:445,915,139,100
+images/Whites
+bounds:262,918,181,97

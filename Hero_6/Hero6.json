@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "C:/Users/Arthur/Desktop/spine/Characters_20/Hero_6/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Legs", "bone": "root", "attachment": "Legs" },
+	{ "name": "Gypsum", "bone": "root", "attachment": "Gypsum" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Whites", "bone": "root", "attachment": "Whites" },
+	{ "name": "Left eye", "bone": "root", "attachment": "Left eye" },
+	{ "name": "Right eye", "bone": "root", "attachment": "Right eye" },
+	{ "name": "Left eyelid", "bone": "root", "attachment": "Left eyelid" },
+	{ "name": "Right eyelid", "bone": "root", "attachment": "Right eyelid" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Left eyebrow", "bone": "root", "attachment": "Left eyebrow" },
+	{ "name": "Right eyebrow", "bone": "root", "attachment": "Right eyebrow" }
+],
+"skins": {
+	"default": {
+		"Legs": {
+			"Legs": { "x": 330.8, "y": -716, "width": 286, "height": 386 }
+		},
+		"Gypsum": {
+			"Gypsum": { "x": 176.5, "y": -782.3, "width": 211, "height": 251 }
+		},
+		"Body": {
+			"Body": { "x": 291, "y": -508.6, "width": 548, "height": 324 }
+		},
+		"Whites": {
+			"Whites": { "x": 239.1, "y": -228.9, "width": 181, "height": 97 }
+		},
+		"Left eye": {
+			"Left eye": { "x": 170.7, "y": -218.4, "width": 37, "height": 38 }
+		},
+		"Right eye": {
+			"Right eye": { "x": 251.9, "y": -226.3, "width": 69, "height": 67 }
+		},
+		"Left eyelid": {
+			"Left eyelid": { "x": 183.7, "y": -166.1, "width": 55, "height": 53 }
+		},
+		"Right eyelid": {
+			"Right eyelid": { "x": 308.5, "y": -140.2, "width": 139, "height": 100 }
+		},
+		"Head": {
+			"Head": { "x": 269.3, "y": -215.8, "width": 371, "height": 400 }
+		},
+		"Left eyebrow": {
+			"Left eyebrow": { "x": 156.2, "y": -167.9, "width": 36, "height": 23 }
+		},
+		"Right eyebrow": {
+			"Right eyebrow": { "x": 240.2, "y": -157.3, "width": 52, "height": 33 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
