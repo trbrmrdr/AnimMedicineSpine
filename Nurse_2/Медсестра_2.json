@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "C:/Users/Arthur/Desktop/spine/Characters_20/Nurse_2/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Leg_L", "bone": "root", "attachment": "Leg_L" },
+	{ "name": "Leg_R", "bone": "root", "attachment": "Leg_R" },
+	{ "name": "Layer 7", "bone": "root", "attachment": "Layer 7" },
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" },
+	{ "name": "weapon", "bone": "root" },
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" },
+	{ "name": "Eyes", "bone": "root", "attachment": "Eyes" },
+	{ "name": "Pupils", "bone": "root", "attachment": "Pupils" },
+	{ "name": "Layer 3", "bone": "root", "attachment": "Layer 3" },
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Layer 5", "bone": "root", "attachment": "Layer 5" },
+	{ "name": "Layer 6", "bone": "root", "attachment": "Layer 6" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "Layer 8", "bone": "root", "attachment": "Layer 8" }
+],
+"skins": {
+	"default": {
+		"Leg_L": {
+			"Leg_L": { "x": 420.4, "y": -856.08, "width": 129, "height": 273 }
+		},
+		"Leg_R": {
+			"Leg_R": { "x": 474.59, "y": -848.34, "width": 209, "height": 273 }
+		},
+		"Layer 7": {
+			"Layer 7": { "x": 200.74, "y": -580.63, "width": 388, "height": 338 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": 485.21, "y": -562.41, "width": 373, "height": 371 }
+		},
+		"weapon": {
+			"weapon": { "x": 532.7, "y": -709.3, "width": 259, "height": 226 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 590.2, "y": -534.71, "width": 116, "height": 306 }
+		},
+		"Eyes": {
+			"Eyes": { "x": 365.7, "y": -252.17, "width": 183, "height": 73 }
+		},
+		"Pupils": {
+			"Pupils": { "x": 354.93, "y": -250.98, "width": 152, "height": 47 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 407.47, "y": -247.07, "width": 104, "height": 66 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": 300.35, "y": -256.28, "width": 48, "height": 45 }
+		},
+		"Layer 5": {
+			"Layer 5": { "x": 406.88, "y": -277.59, "width": 286, "height": 318 }
+		},
+		"Layer 6": {
+			"Layer 6": { "x": 330.99, "y": -358.95, "width": 68, "height": 71 }
+		},
+		"hair": {
+			"hair": { "x": 435.37, "y": -193.92, "width": 392, "height": 383 }
+		},
+		"Layer 8": {
+			"Layer 8": { "x": 502.66, "y": -333.47, "width": 94, "height": 91 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

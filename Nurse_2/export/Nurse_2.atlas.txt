@@ -1,0 +1,66 @@
+Nurse_2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Boom/Boom1
+bounds:1161,1703,343,351
+rotate:90
+Boom/Boom2
+bounds:771,1363,343,351
+rotate:90
+Boom/Boom3
+bounds:396,1330,343,351
+rotate:90
+Boom/Boom4
+bounds:2,1318,343,351
+rotate:90
+Boom/Boom5
+bounds:1514,1703,343,351
+rotate:90
+Boom/Boom6
+bounds:1124,1358,343,351
+rotate:90
+Boom/Boom7
+bounds:749,1018,343,351
+rotate:90
+Boom/Boom8
+bounds:355,985,343,351
+rotate:90
+Boom/Boom9
+bounds:2,973,343,351
+rotate:90
+Eyes
+bounds:1867,1555,183,73
+rotate:90
+Layer 1
+bounds:396,1675,373,371
+Layer 2
+bounds:1867,1740,116,306
+Layer 3
+bounds:1942,1579,104,66
+Layer 4
+bounds:1985,1847,48,45
+Layer 5
+bounds:1477,1415,286,318
+rotate:90
+Layer 6
+bounds:1942,1509,68,71
+rotate:90
+Layer 7
+bounds:771,1708,388,338
+Layer 8
+bounds:1942,1647,94,91
+Leg_L_new
+bounds:1477,1204,209,273
+rotate:90
+Leg_R
+bounds:1752,1037,209,273
+rotate:90
+Pupils
+bounds:1985,1894,152,47
+rotate:90
+hair
+bounds:2,1663,392,383
+weapon
+bounds:1797,1248,259,226
+rotate:90
