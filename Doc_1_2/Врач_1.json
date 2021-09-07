@@ -1,0 +1,64 @@
+{ "skeleton": { "images": "C:/Users/Arthur/Desktop/spine/Characters_20/Doctor/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Leg_L", "bone": "root", "attachment": "Leg_L" },
+	{ "name": "Leg_R", "bone": "root", "attachment": "Leg_R" },
+	{ "name": "Arm_L", "bone": "root", "attachment": "Arm_L" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Arm_R", "bone": "root", "attachment": "Arm_R" },
+	{ "name": "Eye", "bone": "root", "attachment": "Eye" },
+	{ "name": "Pupils", "bone": "root", "attachment": "Pupils" },
+	{ "name": "Eyelid_R", "bone": "root", "attachment": "Eyelid_R" },
+	{ "name": "Eyelid_L", "bone": "root", "attachment": "Eyelid_L" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Brow_L", "bone": "root", "attachment": "Brow_L" },
+	{ "name": "Brow_R", "bone": "root", "attachment": "Brow_R" },
+	{ "name": "Mouth", "bone": "root", "attachment": "Mouth" }
+],
+"skins": {
+	"default": {
+		"Leg_L": {
+			"Leg_L": { "x": 375.8, "y": -876.2, "width": 164, "height": 156 }
+		},
+		"Leg_R": {
+			"Leg_R": { "x": 465, "y": -874.9, "width": 152, "height": 157 }
+		},
+		"Arm_L": {
+			"Arm_L": { "x": 167.6, "y": -546, "width": 326, "height": 322 }
+		},
+		"Body": {
+			"Body": { "x": 469.7, "y": -565.9, "width": 439, "height": 507 }
+		},
+		"Arm_R": {
+			"Arm_R": { "x": 653.8, "y": -551.5, "width": 308, "height": 399 }
+		},
+		"Eye": {
+			"Eye": { "x": 368.4, "y": -265.8, "width": 166, "height": 52 }
+		},
+		"Pupils": {
+			"Pupils": { "x": 356, "y": -265.9, "width": 118, "height": 51 }
+		},
+		"Eyelid_R": {
+			"Eyelid_R": { "x": 403.9, "y": -234.2, "width": 93, "height": 52 }
+		},
+		"Eyelid_L": {
+			"Eyelid_L": { "x": 315.7, "y": -242.4, "width": 63, "height": 46 }
+		},
+		"Head": {
+			"Head": { "x": 415.3, "y": -221.8, "width": 367, "height": 428 }
+		},
+		"Brow_L": {
+			"Brow_L": { "x": 338.8, "y": -216.2, "width": 118, "height": 32 }
+		},
+		"Brow_R": {
+			"Brow_R": { "x": 396.7, "y": -213.1, "width": 65, "height": 35 }
+		},
+		"Mouth": {
+			"Mouth": { "x": 363.8, "y": -366, "width": 96, "height": 82 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
