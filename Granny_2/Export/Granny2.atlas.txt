@@ -1,0 +1,77 @@
+Granny2.png
+size:1024,1024
+format:RGB565
+filter:MipMap,MipMap
+pma:true
+scale:0.5
+Body
+bounds:4,349,594,646
+Earring
+bounds:4,466,33,41
+Grey thing
+bounds:490,99,305,512
+rotate:90
+Head
+bounds:601,408,375,432
+Left eye
+bounds:4,957,35,38
+Left eyebrow
+bounds:154,320,44,47
+Left eyelid
+bounds:530,408,54,58
+Left wrist
+bounds:470,4,114,91
+Mouth
+bounds:600,878,153,117
+Necklace
+bounds:757,845,206,150
+Right eye
+bounds:546,952,44,43
+Right eyebrow
+bounds:757,845,52,57
+Right eyelid
+bounds:304,196,130,77
+Right hand
+bounds:4,104,367,335
+rotate:180
+Right leg
+bounds:50,4,175,436
+rotate:90
+Whites
+bounds:227,277,205,69
+
+Granny2_2.png
+size:1024,1024
+format:RGB565
+filter:MipMap,MipMap
+pma:true
+scale:0.5
+Boom1
+bounds:4,188,172,176
+rotate:90
+Boom2
+bounds:4,12,172,176
+rotate:90
+Boom3
+bounds:114,456,172,176
+Boom4
+bounds:179,700,172,176
+Boom5
+bounds:184,184,172,176
+Boom6
+bounds:184,4,172,176
+Boom7
+bounds:290,520,172,176
+Boom8
+bounds:355,704,172,176
+rotate:90
+Boom9
+bounds:360,340,172,176
+Hat
+bounds:446,107,492,593
+Left hand
+bounds:4,635,179,241
+offsets:13,31,192,272
+Left leg
+bounds:4,363,196,372
+rotate:180
