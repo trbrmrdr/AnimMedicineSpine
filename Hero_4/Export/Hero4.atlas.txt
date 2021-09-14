@@ -5,33 +5,55 @@ filter:MipMap,MipMap
 pma:true
 scale:0.5
 Body
-bounds:61,62,580,401
+bounds:61,168,580,401
 offsets:0,20,580,459
+Boom7
+bounds:414,4,172,176
+rotate:90
+Boom8
+bounds:704,37,172,176
+Boom9
+bounds:4,20,172,176
+rotate:90
 Gypsum
-bounds:467,73,279,354
+bounds:467,179,279,354
 rotate:90
 Head
-bounds:4,383,575,521
+bounds:4,489,575,521
 offsets:0,11,575,532
 Left eye
-bounds:123,324,51,51
+bounds:103,959,51,51
 Left eyebrow
-bounds:160,870,50,34
+bounds:158,976,50,34
 Left eyelid
-bounds:4,723,68,83
+bounds:4,829,68,83
 Legs
-bounds:493,371,488,533
+bounds:494,477,488,533
 Right eye
-bounds:4,810,95,94
+bounds:4,916,95,94
 Right eyebrow
-bounds:4,505,102,66
+bounds:4,611,102,66
 Right eyelid
-bounds:4,368,188,133
-Star
-bounds:103,853,53,51
+bounds:4,474,188,133
 Whites
-bounds:824,113,254,150
+bounds:825,219,254,150
 rotate:90
-Wind
-bounds:708,4,105,161
-rotate:90
+
+Hero4_2.png
+size:1024,512
+format:RGB565
+filter:MipMap,MipMap
+pma:true
+scale:0.5
+Boom1
+bounds:4,184,172,176
+Boom2
+bounds:4,4,172,176
+Boom3
+bounds:180,184,172,176
+Boom4
+bounds:180,4,172,176
+Boom5
+bounds:356,184,172,176
+Boom6
+bounds:356,4,172,176
