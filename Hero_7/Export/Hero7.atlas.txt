@@ -1,0 +1,43 @@
+Hero7.png
+size:1024,1024
+format:RGB565
+filter:MipMap,MipMap
+pma:true
+scale:0.5
+Body
+bounds:359,143,499,408
+rotate:270
+Hand gypsum
+bounds:585,79,284,320
+rotate:180
+Head
+bounds:4,430,515,479
+Left eye
+bounds:582,623,46,46
+Left eyebrow
+bounds:637,872,51,37
+Left eyelid
+bounds:523,598,55,85
+Left leg gypsum
+bounds:4,138,288,305
+rotate:90
+Legs
+bounds:280,21,233,180
+offsets:0,3,233,183
+Right eye
+bounds:4,347,82,79
+Right eyebrow
+bounds:523,851,110,58
+Right eyelid
+bounds:4,38,155,116
+Right leg gypsum
+bounds:523,488,421,386
+offsets:35,0,456,386
+rotate:90
+Star
+bounds:90,375,53,51
+Whites
+bounds:308,316,206,110
+Wind
+bounds:753,4,105,161
+rotate:90
