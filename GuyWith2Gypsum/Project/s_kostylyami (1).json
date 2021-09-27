@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/S_kostylyami/Project/Images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "RightLeg", "bone": "root", "attachment": "RightLeg" },
+	{ "name": "LeftLeg", "bone": "root", "attachment": "LeftLeg" },
+	{ "name": "RightHand", "bone": "root", "attachment": "RightHand" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Crutch", "bone": "root", "attachment": "Crutch" },
+	{ "name": "LeftHand", "bone": "root", "attachment": "LeftHand" },
+	{ "name": "LeftEye", "bone": "root", "attachment": "LeftEye" },
+	{ "name": "RightEye", "bone": "root", "attachment": "RightEye" },
+	{ "name": "Eyelids", "bone": "root", "attachment": "Eyelids" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Mouth", "bone": "root", "attachment": "Mouth" },
+	{ "name": "Brows", "bone": "root", "attachment": "Brows" }
+],
+"skins": {
+	"default": {
+		"RightLeg": {
+			"RightLeg": { "x": 358.5, "y": -1424, "width": 369, "height": 716 }
+		},
+		"LeftLeg": {
+			"LeftLeg": { "x": 588, "y": -1418, "width": 370, "height": 728 }
+		},
+		"RightHand": {
+			"RightHand": { "x": 247.5, "y": -997, "width": 329, "height": 652 }
+		},
+		"Body": {
+			"Body": { "x": 577, "y": -949.5, "width": 732, "height": 805 }
+		},
+		"Crutch": {
+			"Crutch": { "x": 721.5, "y": -1207, "width": 893, "height": 996 }
+		},
+		"LeftHand": {
+			"LeftHand": { "x": 803.5, "y": -942.5, "width": 297, "height": 675 }
+		},
+		"LeftEye": {
+			"LeftEye": { "x": 465, "y": -297.5, "width": 296, "height": 165 }
+		},
+		"RightEye": {
+			"RightEye": { "x": 171.5, "y": -322.5, "width": 179, "height": 169 }
+		},
+		"Eyelids": {
+			"Eyelids": { "x": 341, "y": -247.5, "width": 520, "height": 179 }
+		},
+		"Head": {
+			"Head": { "x": 403, "y": -366.5, "width": 808, "height": 735 }
+		},
+		"Mouth": {
+			"Mouth": { "x": 318.5, "y": -565.5, "width": 283, "height": 161 }
+		},
+		"Brows": {
+			"Brows": { "x": 294.5, "y": -201, "width": 267, "height": 92 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
