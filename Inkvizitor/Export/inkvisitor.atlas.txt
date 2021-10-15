@@ -1,0 +1,111 @@
+
+inkvisitor.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Boom1
+  rotate: false
+  xy: 4, 198
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 659, 349
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: false
+  xy: 671, 770
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: false
+  xy: 732, 529
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: true
+  xy: 728, 173
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: true
+  xy: 180, 24
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: true
+  xy: 396, 5
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: true
+  xy: 835, 353
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom9
+  rotate: false
+  xy: 847, 770
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 4, 378
+  size: 338, 570
+  orig: 338, 570
+  offset: 0, 0
+  index: -1
+head
+  rotate: 270
+  xy: 296, 352
+  size: 595, 432
+  orig: 595, 432
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: 270
+  xy: 313, 177
+  size: 169, 412
+  orig: 169, 412
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 724, 11
+  size: 209, 223
+  orig: 209, 223
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: 270
+  xy: 198, 264
+  size: 222, 412
+  orig: 222, 412
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: 270
+  xy: 343, 729
+  size: 210, 224
+  orig: 210, 224
+  offset: 0, 0
+  index: -1

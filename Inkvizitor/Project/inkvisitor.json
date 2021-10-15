@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/Inkvizitor/Project/Images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "left_hand", "bone": "root", "attachment": "left_hand" },
+	{ "name": "left_leg", "bone": "root", "attachment": "left_leg" },
+	{ "name": "right_leg", "bone": "root", "attachment": "right_leg" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "right_hand", "bone": "root", "attachment": "right_hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"left_hand": {
+			"left_hand": { "x": 321, "y": -1001.5, "width": 338, "height": 823 }
+		},
+		"left_leg": {
+			"left_leg": { "x": 478, "y": -1688, "width": 418, "height": 446 }
+		},
+		"right_leg": {
+			"right_leg": { "x": 690.5, "y": -1693.5, "width": 419, "height": 447 }
+		},
+		"body": {
+			"body": { "x": 657, "y": -1112.5, "width": 676, "height": 1139 }
+		},
+		"right_hand": {
+			"right_hand": { "x": 916, "y": -1018.5, "width": 444, "height": 823 }
+		},
+		"head": {
+			"head": { "x": 593.5, "y": -431, "width": 1189, "height": 864 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
