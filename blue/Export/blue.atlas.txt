@@ -1,0 +1,125 @@
+
+blue.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Boom1
+  rotate: true
+  xy: 313, 29
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 493, 25
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: false
+  xy: 549, 365
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: false
+  xy: 616, 809
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: false
+  xy: 619, 629
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: false
+  xy: 669, 185
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: false
+  xy: 669, 5
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: false
+  xy: 725, 449
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom9
+  rotate: false
+  xy: 795, 809
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 322, 205
+  size: 302, 223
+  orig: 302, 223
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 4, 436
+  size: 333, 550
+  orig: 333, 550
+  offset: 0, 0
+  index: -1
+colba
+  rotate: false
+  xy: 845, 240
+  size: 137, 205
+  orig: 137, 205
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 4, 76
+  size: 314, 367
+  orig: 314, 367
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: 180
+  xy: 480, 546
+  size: 135, 408
+  orig: 135, 408
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 845, 46
+  size: 191, 145
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 301, 543
+  size: 220, 407
+  orig: 220, 407
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 795, 655
+  size: 197, 150
+  orig: 197, 150
+  offset: 0, 0
+  index: -1

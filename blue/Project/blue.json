@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/blue/Project/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "left_leg", "bone": "root", "attachment": "left_leg" },
+	{ "name": "right_leg", "bone": "root", "attachment": "right_leg" },
+	{ "name": "left_hand", "bone": "root", "attachment": "left_hand" },
+	{ "name": "back", "bone": "root", "attachment": "back" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "colba", "bone": "root", "attachment": "colba" },
+	{ "name": "right_hand", "bone": "root", "attachment": "right_hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"left_leg": {
+			"left_leg": { "x": 304.5, "y": -1834.5, "width": 381, "height": 291 }
+		},
+		"right_leg": {
+			"right_leg": { "x": 509.5, "y": -1847, "width": 393, "height": 300 }
+		},
+		"left_hand": {
+			"left_hand": { "x": 134, "y": -1045, "width": 270, "height": 816 }
+		},
+		"back": {
+			"back": { "x": 563, "y": -661.5, "width": 604, "height": 445 }
+		},
+		"body": {
+			"body": { "x": 465.5, "y": -1182.5, "width": 665, "height": 1099 }
+		},
+		"colba": {
+			"colba": { "x": 546.5, "y": -1174.5, "width": 273, "height": 409 }
+		},
+		"right_hand": {
+			"right_hand": { "x": 754.5, "y": -983, "width": 439, "height": 814 }
+		},
+		"head": {
+			"head": { "x": 439, "y": -366, "width": 628, "height": 734 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
