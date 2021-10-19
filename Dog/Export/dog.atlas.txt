@@ -1,0 +1,139 @@
+
+dog.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Boom1
+  rotate: true
+  xy: 580, 423
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 760, 437
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: true
+  xy: 181, 280
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: true
+  xy: 361, 274
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: false
+  xy: 4, 263
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: true
+  xy: 760, 261
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: true
+  xy: 541, 247
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: true
+  xy: 180, 104
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom9
+  rotate: false
+  xy: 785, 821
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Leg_2_left
+  rotate: false
+  xy: 659, 614
+  size: 146, 328
+  orig: 146, 328
+  offset: 0, 0
+  index: -1
+Leg_2_right
+  rotate: true
+  xy: 86, 6
+  size: 119, 327
+  orig: 119, 327
+  offset: 0, 0
+  index: -1
+body
+  rotate: 180
+  xy: 4, 443
+  size: 679, 554
+  orig: 679, 554
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 309, 890
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 4, 905
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+jaw_down
+  rotate: true
+  xy: 791, 626
+  size: 192, 144
+  orig: 192, 144
+  offset: 0, 0
+  index: -1
+jaw_high
+  rotate: false
+  xy: 719, 132
+  size: 197, 111
+  orig: 197, 111
+  offset: 0, 0
+  index: -1
+leg_1_left
+  rotate: true
+  xy: 414, 13
+  size: 114, 356
+  orig: 114, 356
+  offset: 0, 0
+  index: -1
+leg_1_right
+  rotate: true
+  xy: 360, 126
+  size: 136, 356
+  orig: 136, 356
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 4, 648
+  size: 302, 350
+  orig: 302, 350
+  offset: 0, 0
+  index: -1
