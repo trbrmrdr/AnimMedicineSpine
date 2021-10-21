@@ -1,0 +1,173 @@
+
+dvuhgoloviy.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Boom1
+  rotate: false
+  xy: 848, 694
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 838, 514
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: true
+  xy: 567, 382
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: true
+  xy: 747, 338
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: true
+  xy: 289, 289
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: true
+  xy: 4, 251
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: true
+  xy: 469, 206
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: true
+  xy: 649, 162
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom9
+  rotate: true
+  xy: 829, 162
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: 180
+  xy: 571, 558
+  size: 283, 443
+  orig: 430, 443
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 111, 427
+  size: 239, 454
+  orig: 239, 454
+  offset: 0, 0
+  index: -1
+eyelids_1
+  rotate: true
+  xy: 4, 64
+  size: 183, 80
+  orig: 183, 80
+  offset: 0, 0
+  index: -1
+eyes_1
+  rotate: false
+  xy: 181, 12
+  size: 177, 58
+  orig: 177, 58
+  offset: 0, 0
+  index: -1
+eyes_2
+  rotate: true
+  xy: 4, 480
+  size: 174, 95
+  orig: 174, 95
+  offset: 0, 0
+  index: -1
+hand_left_2
+  rotate: 270
+  xy: 413, 52
+  size: 128, 305
+  orig: 128, 305
+  offset: 0, 0
+  index: -1
+hand_right_2
+  rotate: true
+  xy: 136, 129
+  size: 161, 313
+  orig: 161, 313
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 300, 669
+  size: 280, 331
+  orig: 280, 331
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 4, 658
+  size: 292, 342
+  orig: 292, 342
+  offset: 0, 0
+  index: -1
+left_hand_1
+  rotate: 270
+  xy: 89, 54
+  size: 138, 321
+  orig: 138, 321
+  offset: 0, 0
+  index: -1
+right_hand_1
+  rotate: true
+  xy: 700, 5
+  size: 153, 317
+  orig: 153, 317
+  offset: 0, 0
+  index: -1
+
+dvuhgoloviy2.png
+size: 512,256
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+eyelids_2
+  rotate: true
+  xy: 311, 18
+  size: 171, 94
+  orig: 171, 94
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 4, 5
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: 180
+  xy: 151, 5
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1

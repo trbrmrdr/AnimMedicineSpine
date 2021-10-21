@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/Dvuhgoloviy/Project/Images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "leg_right", "bone": "root", "attachment": "leg_right" },
+	{ "name": "leg_left", "bone": "root", "attachment": "leg_left" },
+	{ "name": "body_2", "bone": "root", "attachment": "body_2" },
+	{ "name": "body_1", "bone": "root", "attachment": "body_1" },
+	{ "name": "hand_left_2", "bone": "root", "attachment": "hand_left_2" },
+	{ "name": "hand_right_2", "bone": "root", "attachment": "hand_right_2" },
+	{ "name": "eyes_1", "bone": "root", "attachment": "eyes_1" },
+	{ "name": "eyelids_1", "bone": "root", "attachment": "eyelids_1" },
+	{ "name": "eyes_2", "bone": "root", "attachment": "eyes_2" },
+	{ "name": "eyelids_2", "bone": "root", "attachment": "eyelids_2" },
+	{ "name": "right_hand_1", "bone": "root", "attachment": "right_hand_1" },
+	{ "name": "left_hand_1", "bone": "root", "attachment": "left_hand_1" },
+	{ "name": "head_2", "bone": "root", "attachment": "head_2" },
+	{ "name": "head_1", "bone": "root", "attachment": "head_1" }
+],
+"skins": {
+	"default": {
+		"leg_right": {
+			"leg_right": { "x": 447, "y": -1474.5, "width": 312, "height": 369 }
+		},
+		"leg_left": {
+			"leg_left": { "x": 736, "y": -1474.5, "width": 312, "height": 369 }
+		},
+		"body_2": {
+			"body_2": { "x": 844.5, "y": -944, "width": 477, "height": 908 }
+		},
+		"body_1": {
+			"body_1": { "x": 594.5, "y": -958.5, "width": 859, "height": 885 }
+		},
+		"hand_left_2": {
+			"hand_left_2": { "x": 1074.5, "y": -918, "width": 255, "height": 610 }
+		},
+		"hand_right_2": {
+			"hand_right_2": { "x": 686.5, "y": -854, "width": 321, "height": 626 }
+		},
+		"eyes_1": {
+			"eyes_1": { "x": 242, "y": -361.5, "width": 354, "height": 115 }
+		},
+		"eyelids_1": {
+			"eyelids_1": { "x": 244, "y": -284, "width": 366, "height": 160 }
+		},
+		"eyes_2": {
+			"eyes_2": { "x": 926.5, "y": -307.5, "width": 347, "height": 189 }
+		},
+		"eyelids_2": {
+			"eyelids_2": { "x": 968.5, "y": -263, "width": 341, "height": 188 }
+		},
+		"right_hand_1": {
+			"right_hand_1": { "x": 197, "y": -939, "width": 306, "height": 634 }
+		},
+		"left_hand_1": {
+			"left_hand_1": { "x": 588, "y": -873.5, "width": 276, "height": 641 }
+		},
+		"head_2": {
+			"head_2": { "x": 972, "y": -340.5, "width": 584, "height": 683 }
+		},
+		"head_1": {
+			"head_1": { "x": 279, "y": -350.5, "width": 560, "height": 661 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
