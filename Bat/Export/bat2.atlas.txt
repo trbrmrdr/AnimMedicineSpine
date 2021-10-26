@@ -1,0 +1,139 @@
+
+bat2.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Back_eye
+  rotate: false
+  xy: 389, 559
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Back_wing
+  rotate: false
+  xy: 4, 540
+  size: 381, 395
+  orig: 381, 395
+  offset: 0, 0
+  index: -1
+Body
+  rotate: 270
+  xy: 222, 329
+  size: 219, 361
+  orig: 219, 361
+  offset: 0, 0
+  index: -1
+Boom1
+  rotate: false
+  xy: 389, 759
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 4, 360
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: true
+  xy: 582, 226
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: true
+  xy: 4, 184
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: true
+  xy: 375, 155
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: true
+  xy: 184, 153
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: true
+  xy: 809, 152
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: true
+  xy: 555, 50
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom9
+  rotate: false
+  xy: 4, 4
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Earring
+  rotate: false
+  xy: 180, 58
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+Front_eye
+  rotate: false
+  xy: 488, 702
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Front_leg
+  rotate: true
+  xy: 709, 877
+  size: 59, 211
+  orig: 59, 211
+  offset: 0, 0
+  index: -1
+Front_wing
+  rotate: false
+  xy: 389, 402
+  size: 576, 534
+  orig: 576, 534
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 791, 325
+  size: 228, 264
+  orig: 228, 264
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 389, 653
+  size: 96, 101
+  orig: 190, 147
+  offset: 0, 0
+  index: -1
+back_leg
+  rotate: false
+  xy: 180, 389
+  size: 46, 148
+  orig: 46, 148
+  offset: 0, 0
+  index: -1

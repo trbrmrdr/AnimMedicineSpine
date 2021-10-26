@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/Zombie2/Project/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "right_leg", "bone": "root", "attachment": "right_leg" },
+	{ "name": "left_leg", "bone": "root", "attachment": "left_leg" },
+	{ "name": "Right_hand", "bone": "root", "attachment": "Right_hand" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "left_hand", "bone": "root", "attachment": "left_hand" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": {
+	"default": {
+		"right_leg": {
+			"right_leg": { "x": 344, "y": -1356.5, "width": 216, "height": 625 }
+		},
+		"left_leg": {
+			"left_leg": { "x": 532.5, "y": -1391, "width": 279, "height": 642 }
+		},
+		"Right_hand": {
+			"Right_hand": { "x": 191, "y": -948.5, "width": 384, "height": 645 }
+		},
+		"body": {
+			"body": { "x": 510, "y": -991.5, "width": 664, "height": 831 }
+		},
+		"left_hand": {
+			"left_hand": { "x": 795, "y": -959.5, "width": 300, "height": 671 }
+		},
+		"head": {
+			"head": { "x": 467.5, "y": -347, "width": 643, "height": 696 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

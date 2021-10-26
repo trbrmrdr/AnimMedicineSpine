@@ -1,0 +1,104 @@
+
+Zombie2.png
+size: 1024,1024
+format: RGB565
+filter: MipMap,MipMap
+repeat: none
+Boom1
+  rotate: false
+  xy: 651, 518
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 827, 518
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom3
+  rotate: false
+  xy: 651, 338
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom4
+  rotate: false
+  xy: 827, 338
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom5
+  rotate: true
+  xy: 287, 178
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom6
+  rotate: true
+  xy: 467, 171
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom7
+  rotate: true
+  xy: 647, 162
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Boom8
+  rotate: true
+  xy: 827, 162
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+Right_hand
+  rotate: false
+  xy: 4, 5
+  size: 192, 323
+  orig: 192, 323
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 4, 279
+  size: 332, 416
+  orig: 332, 416
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 325, 347
+  size: 322, 348
+  orig: 322, 348
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 115, 79
+  size: 150, 336
+  orig: 150, 336
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 186, 24
+  size: 140, 321
+  orig: 140, 321
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: 270
+  xy: 502, 59
+  size: 108, 313
+  orig: 108, 313
+  offset: 0, 0
+  index: -1

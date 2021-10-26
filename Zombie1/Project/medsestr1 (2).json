@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "~/Desktop/AnimMedicineSpine-master/AnimMedicineSpine/Zobie1/Project/Images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "left_leg", "bone": "root", "attachment": "left_leg" },
+	{ "name": "right_leg", "bone": "root", "attachment": "right_leg" },
+	{ "name": "right_hand", "bone": "root", "attachment": "right_hand" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "left_hand", "bone": "root", "attachment": "left_hand" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"left_leg": {
+			"left_leg": { "x": 548.5, "y": -1517.5, "width": 279, "height": 641 }
+		},
+		"right_leg": {
+			"right_leg": { "x": 424.5, "y": -1483, "width": 217, "height": 624 }
+		},
+		"right_hand": {
+			"right_hand": { "x": 206, "y": -1058, "width": 414, "height": 586 }
+		},
+		"body": {
+			"body": { "x": 552.5, "y": -1020, "width": 657, "height": 676 }
+		},
+		"left_hand": {
+			"left_hand": { "x": 733.5, "y": -992, "width": 221, "height": 622 }
+		},
+		"Head": {
+			"Head": { "x": 480, "y": -394.5, "width": 674, "height": 791 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
